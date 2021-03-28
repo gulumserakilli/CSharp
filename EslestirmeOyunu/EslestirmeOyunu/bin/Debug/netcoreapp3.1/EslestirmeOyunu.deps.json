@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EslestirmeOyunu/1.0.0": {
+        "runtime": {
+          "EslestirmeOyunu.dll": {}
+        },
+        "resources": {
+          "af-ZA/EslestirmeOyunu.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "af/EslestirmeOyunu.resources.dll": {
+            "locale": "af"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EslestirmeOyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
