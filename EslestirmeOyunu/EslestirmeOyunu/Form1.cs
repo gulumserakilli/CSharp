@@ -17,8 +17,8 @@ namespace EslestirmeOyunu
         Random random = new Random();
         List<string> icons = new List<string>()
         {
-           "!", "!", "N", "N", ",", ",", "k", "k",
-            "b", "b", "v", "v", "w", "w", "z", "z"
+           "Y", "Y", "Z", "Z", "b", "b", "k", "k",
+            "%", "%", "v", "v", "w", "w", "z", "z"
         };
 
         private void HucrelereResimAta()
