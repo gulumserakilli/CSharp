@@ -1,0 +1,15 @@
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.csprojAssemblyReference.cache
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.csproj.GenerateResource.cache
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.AssemblyInfoInputs.cache
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.AssemblyInfo.cs
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\bin\Debug\netcoreapp3.1\Alarm.exe
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\bin\Debug\netcoreapp3.1\Alarm.deps.json
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\bin\Debug\netcoreapp3.1\Alarm.runtimeconfig.json
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\bin\Debug\netcoreapp3.1\Alarm.runtimeconfig.dev.json
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\bin\Debug\netcoreapp3.1\Alarm.dll
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\bin\Debug\netcoreapp3.1\Alarm.pdb
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.Form1.resources
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.dll
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.pdb
+C:\Users\glmsr\VisualStudioC#\Alarm\Alarm\obj\Debug\netcoreapp3.1\Alarm.genruntimeconfig.cache
