@@ -1,0 +1,15 @@
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\bin\Debug\netcoreapp3.1\Kronometre.exe
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\bin\Debug\netcoreapp3.1\Kronometre.deps.json
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\bin\Debug\netcoreapp3.1\Kronometre.runtimeconfig.json
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\bin\Debug\netcoreapp3.1\Kronometre.runtimeconfig.dev.json
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\bin\Debug\netcoreapp3.1\Kronometre.dll
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\bin\Debug\netcoreapp3.1\Kronometre.pdb
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.csprojAssemblyReference.cache
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.Form1.resources
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.csproj.GenerateResource.cache
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.AssemblyInfoInputs.cache
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.AssemblyInfo.cs
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.dll
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.pdb
+C:\Users\glmsr\VisualStudioC#\Kronometre\Kronometre\obj\Debug\netcoreapp3.1\Kronometre.genruntimeconfig.cache
