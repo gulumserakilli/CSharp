@@ -1,0 +1,15 @@
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\Veritaban_log.ldf
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\Veritaban.mdf
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\Database1.mdf
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\Database1_log.ldf
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\VeritabaniUygulama.exe.config
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\VeritabaniUygulama.exe
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\bin\Debug\VeritabaniUygulama.pdb
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.csprojAssemblyReference.cache
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.Properties.Resources.resources
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.csproj.GenerateResource.cache
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.csproj.CoreCompileInputs.cache
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.exe
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.pdb
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.FormPersonel.resources
+C:\Users\glmsr\VisualStudioC#\VeritabaniUygulama\VeritabaniUygulama\obj\Debug\VeritabaniUygulama.FormAnasayfa.resources
