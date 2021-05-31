@@ -1,0 +1,10 @@
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\bin\Debug\NotDefteri.exe.config
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\bin\Debug\NotDefteri.exe
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\bin\Debug\NotDefteri.pdb
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.csprojAssemblyReference.cache
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.Form1.resources
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.Properties.Resources.resources
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.csproj.GenerateResource.cache
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.csproj.CoreCompileInputs.cache
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.exe
+C:\Users\glmsr\VisualStudioC#\NotDefteri\NotDefteri\obj\Debug\NotDefteri.pdb
