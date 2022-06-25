@@ -147,6 +147,12 @@ namespace YildizSavaslari
                 Mermiler[i].Top -= MermiHiz;
             }
         }
+
+        private void pictureBoxGalaxy_Click(object sender, EventArgs e)
+        {
+
+        }
+
         public void DusmanOlustur()
         {
             int yer = rnd.Next(0, formGenislik - 50);//düşman gemilerinin pikselli 50

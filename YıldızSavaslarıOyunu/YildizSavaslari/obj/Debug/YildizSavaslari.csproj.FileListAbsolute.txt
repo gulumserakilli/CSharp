@@ -8,3 +8,14 @@ C:\Users\glmsr\VisualStudioC#\YildizSavaslari\YildizSavaslari\obj\Debug\YildizSa
 C:\Users\glmsr\VisualStudioC#\YildizSavaslari\YildizSavaslari\obj\Debug\YildizSavaslari.csproj.CoreCompileInputs.cache
 C:\Users\glmsr\VisualStudioC#\YildizSavaslari\YildizSavaslari\obj\Debug\YildizSavaslari.exe
 C:\Users\glmsr\VisualStudioC#\YildizSavaslari\YildizSavaslari\obj\Debug\YildizSavaslari.pdb
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\bin\Debug\YildizSavaslari.exe.config
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\bin\Debug\YildizSavaslari.exe
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\bin\Debug\YildizSavaslari.pdb
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.csproj.AssemblyReference.cache
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.csproj.SuggestedBindingRedirects.cache
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.Form1.resources
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.Properties.Resources.resources
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.csproj.GenerateResource.cache
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.csproj.CoreCompileInputs.cache
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.exe
+C:\Users\glmsr\Documents\GitHub\CSharp\YıldızSavaslarıOyunu\YildizSavaslari\obj\Debug\YildizSavaslari.pdb

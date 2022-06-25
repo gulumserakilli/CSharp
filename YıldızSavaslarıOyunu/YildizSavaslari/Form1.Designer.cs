@@ -52,6 +52,7 @@ namespace YildizSavaslari
             this.pictureBoxGalaxy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxGalaxy.TabIndex = 0;
             this.pictureBoxGalaxy.TabStop = false;
+            this.pictureBoxGalaxy.Click += new System.EventHandler(this.pictureBoxGalaxy_Click);
             // 
             // OyuncuGemisi
             // 
