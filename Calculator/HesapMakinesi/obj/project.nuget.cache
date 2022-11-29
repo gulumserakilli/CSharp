@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/UbNFWVi7gymKoyMbZhEZToIUjYzn6384Ai827gNrvHLOWpBJGq7FsIC3mkhZUgY+j81OhSJFFboqJGaRzvOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glmsr\\Documents\\GitHub\\CSharp\\HesapMakinesi\\HesapMakinesi\\HesapMakinesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glmsr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\glmsr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\glmsr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\glmsr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
